@@ -1,0 +1,61 @@
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\bin\Debug\Kyrsach.exe.config
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\bin\Debug\Kyrsach.exe
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\bin\Debug\Kyrsach.pdb
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Form1.resources
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\obj\Debug\Kyrsach.InfoForm.resources
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Properties.Resources.resources
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\obj\Debug\Kyrsach.TestForm.resources
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\obj\Debug\Kyrsach.csproj.GenerateResource.cache
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\obj\Debug\Kyrsach.exe
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\obj\Debug\Kyrsach.pdb
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Test_diff_color.resources
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\bin\Debug\Kyrsach.exe.config
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\bin\Debug\Kyrsach.exe
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\bin\Debug\Kyrsach.pdb
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\obj\Debug\Kyrsach.csprojAssemblyReference.cache
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\obj\Debug\Kyrsach.AnswerForm.resources
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Form1.resources
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\obj\Debug\Kyrsach.InfoForm.resources
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Properties.Resources.resources
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\obj\Debug\Kyrsach.TestForm.resources
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Test_diff_color.resources
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\obj\Debug\Kyrsach.csproj.GenerateResource.cache
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\obj\Debug\Kyrsach.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\obj\Debug\Kyrsach.exe
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\obj\Debug\Kyrsach.pdb
+D:\Program Files (x86)\Prog\Курсач\kyrsach2.0\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Test_Form_Name.resources
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\bin\Debug\Kyrsach.exe.config
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\bin\Debug\Kyrsach.exe
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\bin\Debug\Kyrsach.pdb
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\obj\Debug\Kyrsach.csprojAssemblyReference.cache
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Form1.resources
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\obj\Debug\Kyrsach.InfoForm.resources
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Properties.Resources.resources
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\obj\Debug\Kyrsach.TestForm.resources
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Test_diff_color.resources
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Test_Form_Name.resources
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\obj\Debug\Kyrsach.csproj.GenerateResource.cache
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\obj\Debug\Kyrsach.exe
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\obj\Debug\Kyrsach.pdb
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Test_Form_Name_diff.resources
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Test_Form_Name_diff.resources
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Test_Form_Name.resources
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\obj\Debug\Kyrsach.AboutCreator.resources
+C:\Users\38093\source\repos\Kyrsach\Kyrsach\obj\Debug\Kyrsach.csprojAssemblyReference.cache
+C:\Users\stas6\Desktop\Kyrsach\Kyrsach\obj\Debug\Kyrsach.AboutCreator.resources
+D:\Роман\Downloads\Kyrsach\Kyrsach\bin\Debug\Kyrsach.exe.config
+D:\Роман\Downloads\Kyrsach\Kyrsach\bin\Debug\Kyrsach.exe
+D:\Роман\Downloads\Kyrsach\Kyrsach\bin\Debug\Kyrsach.pdb
+D:\Роман\Downloads\Kyrsach\Kyrsach\obj\Debug\Kyrsach.csprojAssemblyReference.cache
+D:\Роман\Downloads\Kyrsach\Kyrsach\obj\Debug\Kyrsach.AboutCreator.resources
+D:\Роман\Downloads\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Form1.resources
+D:\Роман\Downloads\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Test_Form_Name_diff.resources
+D:\Роман\Downloads\Kyrsach\Kyrsach\obj\Debug\Kyrsach.InfoForm.resources
+D:\Роман\Downloads\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Properties.Resources.resources
+D:\Роман\Downloads\Kyrsach\Kyrsach\obj\Debug\Kyrsach.TestForm.resources
+D:\Роман\Downloads\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Test_diff_color.resources
+D:\Роман\Downloads\Kyrsach\Kyrsach\obj\Debug\Kyrsach.Test_Form_Name.resources
+D:\Роман\Downloads\Kyrsach\Kyrsach\obj\Debug\Kyrsach.csproj.GenerateResource.cache
+D:\Роман\Downloads\Kyrsach\Kyrsach\obj\Debug\Kyrsach.csproj.CoreCompileInputs.cache
+D:\Роман\Downloads\Kyrsach\Kyrsach\obj\Debug\Kyrsach.exe
+D:\Роман\Downloads\Kyrsach\Kyrsach\obj\Debug\Kyrsach.pdb
